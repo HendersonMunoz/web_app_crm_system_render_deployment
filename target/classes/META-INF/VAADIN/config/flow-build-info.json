@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main",
+  "node.version": "v18.16.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
