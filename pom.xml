@@ -133,6 +133,18 @@
             <version>24.0.0</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.webjars.npm</groupId>
+            <artifactId>jridgewell__sourcemap-codec</artifactId>
+            <version>1.4.14</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.webjars.npm</groupId>
+            <artifactId>rollup-plugin-terser</artifactId>
+            <version>7.0.2</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
