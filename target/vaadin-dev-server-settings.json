@@ -2,16 +2,16 @@
   "frontendFolder": "C:/Users/hende/OneDrive/Desktop/Spring_Boot_Web_App_CRM_System/Spring_Boot_Web_App_CRM_System-main/frontend",
   "themeFolder": "themes",
   "themeResourceFolder": "C:/Users/hende/OneDrive/Desktop/Spring_Boot_Web_App_CRM_System/Spring_Boot_Web_App_CRM_System-main/frontend/generated/jar-resources",
-  "staticOutput": "C:/Users/hende/OneDrive/Desktop/Spring_Boot_Web_App_CRM_System/Spring_Boot_Web_App_CRM_System-main/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "staticOutput": "target/classes/META-INF/VAADIN/webapp/VAADIN/static",
   "generatedFolder": "generated",
-  "statsOutput": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main\\target\\classes\\META-INF\\VAADIN\\config",
-  "frontendBundleOutput": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "statsOutput": "target/classes/META-INF/VAADIN/webapp/../config/",
+  "frontendBundleOutput": "target/classes/META-INF/VAADIN/webapp/",
   "devBundleOutput": "C:/Users/hende/OneDrive/Desktop/Spring_Boot_Web_App_CRM_System/Spring_Boot_Web_App_CRM_System-main/src/main/dev-bundle/webapp",
   "devBundleStatsOutput": "C:/Users/hende/OneDrive/Desktop/Spring_Boot_Web_App_CRM_System/Spring_Boot_Web_App_CRM_System-main/src/main/dev-bundle/config",
   "jarResourcesFolder": "C:/Users/hende/OneDrive/Desktop/Spring_Boot_Web_App_CRM_System/Spring_Boot_Web_App_CRM_System-main/frontend/generated/jar-resources",
-  "themeName": "flowcrmtutorial",
+  "themeName": "",
   "clientServiceWorkerSource": "C:\\Users\\hende\\OneDrive\\Desktop\\Spring_Boot_Web_App_CRM_System\\Spring_Boot_Web_App_CRM_System-main\\target\\sw.ts",
-  "pwaEnabled": true,
-  "offlineEnabled": true,
-  "offlinePath": "'.'"
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
 }
