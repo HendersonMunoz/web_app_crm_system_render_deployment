@@ -4,7 +4,7 @@ RUN mvn clean package -DskipTests
 
 FROM openjdk:17.0.1-jdk-slim
 COPY --from=build /target/flowcrmtutorial-1.0-SNAPSHOT.jar flowcrmtutorial.jar
-EXPOSE 8080
+EXPOSE 10000
 ENTRYPOINT ["java", "-jar", "flowcrmtutorial.jar"]
 
 
